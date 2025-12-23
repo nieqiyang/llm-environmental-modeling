@@ -1,4 +1,4 @@
-# Large Language Model for Environmental Modeling
+# Large Language Models for Environmental Modeling
 
 This repository contains the implementation code and data for the research paper:
 
